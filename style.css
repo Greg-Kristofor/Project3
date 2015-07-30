@@ -1,0 +1,55 @@
+.leftcol {
+	float: left;
+	width: 50%;
+/*	border: solid blue;
+*/}
+
+.rightcol {
+	float: right;
+	width: 50%
+}
+
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+	clear: both;
+}
+
+.fixed {
+	position: fixed;
+	bottom: 400px;
+	left: 100px;
+}
+
+.funny{
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+h1{
+	font-weight: bold;
+	font-family: helvetica, sans-serif;
+	font-size: 30pt;
+	color: orange;
+	width: 750px;
+	margin: 0 auto;
+}
+
+h3{
+	font-weight: bold;
+	font-family: helvetica;
+	font-style: italic;
+	color: orange;
+	width: 750px;
+	margin: 0 auto;
+}
+
+p{
+	font-family: helvetica;
+	font-size: 12pt;
+}
+
+.test{
+	border: solid black;
+}
